@@ -1,4 +1,4 @@
-# flight-scraper
+# flight-mux
 
 Scrapes flight data for multiple destinations across multiple dates, outputting a price matrix:
 
